@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bjw725/daily-coding-test/tree/master/0088-merge-sorted-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bjw725/daily-coding-test/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/bjw725/daily-coding-test/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sliding Window
 |  |
 | ------- |
@@ -17,8 +18,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bjw725/daily-coding-test/tree/master/0088-merge-sorted-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bjw725/daily-coding-test/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/bjw725/daily-coding-test/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bjw725/daily-coding-test/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/bjw725/daily-coding-test/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/bjw725/daily-coding-test/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
