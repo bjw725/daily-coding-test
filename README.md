@@ -14,4 +14,13 @@
 |  |
 | ------- |
 | [2210-find-target-indices-after-sorting-array](https://github.com/bjw725/daily-coding-test/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bjw725/daily-coding-test/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Math
+|  |
+| ------- |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bjw725/daily-coding-test/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Greedy
+|  |
+| ------- |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bjw725/daily-coding-test/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
