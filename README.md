@@ -11,6 +11,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bjw725/daily-coding-test/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/bjw725/daily-coding-test/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bjw725/daily-coding-test/tree/master/2331-intersection-of-multiple-arrays) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bjw725/daily-coding-test/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/bjw725/daily-coding-test/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bjw725/daily-coding-test/tree/master/2331-intersection-of-multiple-arrays) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bjw725/daily-coding-test/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,10 +48,12 @@
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bjw725/daily-coding-test/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bjw725/daily-coding-test/tree/master/2331-intersection-of-multiple-arrays) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bjw725/daily-coding-test/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
@@ -65,4 +70,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
