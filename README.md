@@ -51,6 +51,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/bjw725/daily-coding-test/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bjw725/daily-coding-test/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/bjw725/daily-coding-test/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1970-sorting-the-sentence](https://github.com/bjw725/daily-coding-test/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/bjw725/daily-coding-test/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bjw725/daily-coding-test/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bjw725/daily-coding-test/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/bjw725/daily-coding-test/tree/master/0242-valid-anagram) |
+| [1970-sorting-the-sentence](https://github.com/bjw725/daily-coding-test/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/bjw725/daily-coding-test/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
