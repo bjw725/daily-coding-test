@@ -18,6 +18,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bjw725/daily-coding-test/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/bjw725/daily-coding-test/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bjw725/daily-coding-test/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/bjw725/daily-coding-test/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/bjw725/daily-coding-test/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bjw725/daily-coding-test/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/bjw725/daily-coding-test/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -49,6 +50,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bjw725/daily-coding-test/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/bjw725/daily-coding-test/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bjw725/daily-coding-test/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/bjw725/daily-coding-test/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/bjw725/daily-coding-test/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bjw725/daily-coding-test/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bjw725/daily-coding-test/tree/master/2274-keep-multiplying-found-values-by-two) |
