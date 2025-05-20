@@ -27,6 +27,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/bjw725/daily-coding-test/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/bjw725/daily-coding-test/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3778-transform-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/bjw725/daily-coding-test/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/bjw725/daily-coding-test/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3778-transform-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bjw725/daily-coding-test/tree/master/2331-intersection-of-multiple-arrays) |
+| [3778-transform-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
