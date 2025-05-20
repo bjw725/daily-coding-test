@@ -27,6 +27,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/bjw725/daily-coding-test/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/bjw725/daily-coding-test/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3226-minimum-number-game](https://github.com/bjw725/daily-coding-test/tree/master/3226-minimum-number-game) |
 | [3778-transform-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/bjw725/daily-coding-test/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/bjw725/daily-coding-test/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3226-minimum-number-game](https://github.com/bjw725/daily-coding-test/tree/master/3226-minimum-number-game) |
 | [3778-transform-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
@@ -94,6 +96,7 @@
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bjw725/daily-coding-test/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3226-minimum-number-game](https://github.com/bjw725/daily-coding-test/tree/master/3226-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -125,6 +128,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/bjw725/daily-coding-test/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/bjw725/daily-coding-test/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3226-minimum-number-game](https://github.com/bjw725/daily-coding-test/tree/master/3226-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
