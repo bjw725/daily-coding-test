@@ -27,6 +27,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/bjw725/daily-coding-test/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/bjw725/daily-coding-test/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/bjw725/daily-coding-test/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2836-neither-minimum-nor-maximum](https://github.com/bjw725/daily-coding-test/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/bjw725/daily-coding-test/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/bjw725/daily-coding-test/tree/master/3226-minimum-number-game) |
@@ -67,6 +68,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/bjw725/daily-coding-test/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/bjw725/daily-coding-test/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/bjw725/daily-coding-test/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2836-neither-minimum-nor-maximum](https://github.com/bjw725/daily-coding-test/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/bjw725/daily-coding-test/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/bjw725/daily-coding-test/tree/master/3226-minimum-number-game) |
@@ -101,6 +103,7 @@
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bjw725/daily-coding-test/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/bjw725/daily-coding-test/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/bjw725/daily-coding-test/tree/master/3226-minimum-number-game) |
 ## String
 |  |
@@ -134,6 +137,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/bjw725/daily-coding-test/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/bjw725/daily-coding-test/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/bjw725/daily-coding-test/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/bjw725/daily-coding-test/tree/master/3226-minimum-number-game) |
 ## Counting Sort
 |  |
@@ -146,4 +150,5 @@
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/bjw725/daily-coding-test/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/bjw725/daily-coding-test/tree/master/2585-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
