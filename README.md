@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/bjw725/daily-coding-test/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/bjw725/daily-coding-test/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/bjw725/daily-coding-test/tree/master/0561-array-partition) |
@@ -115,6 +116,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/bjw725/daily-coding-test/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
