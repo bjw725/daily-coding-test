@@ -151,4 +151,20 @@
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/bjw725/daily-coding-test/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/bjw725/daily-coding-test/tree/master/2585-delete-greatest-value-in-each-row) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
