@@ -195,6 +195,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/bjw725/daily-coding-test/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bjw725/daily-coding-test/tree/master/0232-implement-queue-using-stacks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -211,8 +212,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bjw725/daily-coding-test/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bjw725/daily-coding-test/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bjw725/daily-coding-test/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bjw725/daily-coding-test/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
