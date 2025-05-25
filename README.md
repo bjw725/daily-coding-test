@@ -190,4 +190,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/bjw725/daily-coding-test/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/bjw725/daily-coding-test/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
