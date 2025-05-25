@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bjw725/daily-coding-test/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
@@ -185,4 +186,8 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0145-binary-tree-postorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
