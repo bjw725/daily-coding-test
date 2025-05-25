@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/bjw725/daily-coding-test/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/bjw725/daily-coding-test/tree/master/0344-reverse-string) |
 | [1970-sorting-the-sentence](https://github.com/bjw725/daily-coding-test/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/bjw725/daily-coding-test/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
@@ -135,6 +136,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/bjw725/daily-coding-test/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/bjw725/daily-coding-test/tree/master/0958-sort-array-by-parity-ii) |
