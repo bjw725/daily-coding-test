@@ -124,6 +124,7 @@
 | [0191-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/bjw725/daily-coding-test/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/bjw725/daily-coding-test/tree/master/0338-counting-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/bjw725/daily-coding-test/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/bjw725/daily-coding-test/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
