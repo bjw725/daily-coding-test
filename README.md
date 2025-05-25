@@ -8,6 +8,7 @@
 | [0118-pascals-triangle](https://github.com/bjw725/daily-coding-test/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/bjw725/daily-coding-test/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/bjw725/daily-coding-test/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/bjw725/daily-coding-test/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/0941-sort-array-by-parity) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bjw725/daily-coding-test/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bjw725/daily-coding-test/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/bjw725/daily-coding-test/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bjw725/daily-coding-test/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/bjw725/daily-coding-test/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
