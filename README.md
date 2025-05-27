@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bjw725/daily-coding-test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/bjw725/daily-coding-test/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/bjw725/daily-coding-test/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bjw725/daily-coding-test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bjw725/daily-coding-test/tree/master/0222-count-complete-tree-nodes) |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bjw725/daily-coding-test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bjw725/daily-coding-test/tree/master/0222-count-complete-tree-nodes) |
@@ -209,6 +212,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bjw725/daily-coding-test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
@@ -237,4 +241,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/bjw725/daily-coding-test/tree/master/0303-range-sum-query-immutable) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bjw725/daily-coding-test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
