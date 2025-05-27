@@ -12,6 +12,7 @@
 | [0303-range-sum-query-immutable](https://github.com/bjw725/daily-coding-test/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/bjw725/daily-coding-test/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/bjw725/daily-coding-test/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/bjw725/daily-coding-test/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/bjw725/daily-coding-test/tree/master/0958-sort-array-by-parity-ii) |
@@ -98,6 +99,7 @@
 | [0242-valid-anagram](https://github.com/bjw725/daily-coding-test/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/bjw725/daily-coding-test/tree/master/0496-next-greater-element-i) |
 | [1217-relative-sort-array](https://github.com/bjw725/daily-coding-test/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bjw725/daily-coding-test/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bjw725/daily-coding-test/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -214,6 +216,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/bjw725/daily-coding-test/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bjw725/daily-coding-test/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/bjw725/daily-coding-test/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -250,4 +253,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bjw725/daily-coding-test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bjw725/daily-coding-test/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
