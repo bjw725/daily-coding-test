@@ -184,6 +184,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bjw725/daily-coding-test/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0226-invert-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/bjw725/daily-coding-test/tree/master/0463-island-perimeter) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0225-implement-stack-using-queues](https://github.com/bjw725/daily-coding-test/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bjw725/daily-coding-test/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/bjw725/daily-coding-test/tree/master/0496-next-greater-element-i) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
