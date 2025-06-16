@@ -20,6 +20,7 @@
 | [0682-baseball-game](https://github.com/bjw725/daily-coding-test/tree/master/0682-baseball-game) |
 | [0824-number-of-lines-to-write-string](https://github.com/bjw725/daily-coding-test/tree/master/0824-number-of-lines-to-write-string) |
 | [0941-sort-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/bjw725/daily-coding-test/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/bjw725/daily-coding-test/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/bjw725/daily-coding-test/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/bjw725/daily-coding-test/tree/master/1137-height-checker) |
@@ -93,6 +94,7 @@
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/bjw725/daily-coding-test/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/bjw725/daily-coding-test/tree/master/0728-self-dividing-numbers) |
+| [0944-smallest-range-i](https://github.com/bjw725/daily-coding-test/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/bjw725/daily-coding-test/tree/master/1013-fibonacci-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bjw725/daily-coding-test/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
