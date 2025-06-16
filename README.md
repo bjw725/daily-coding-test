@@ -18,6 +18,7 @@
 | [0575-distribute-candies](https://github.com/bjw725/daily-coding-test/tree/master/0575-distribute-candies) |
 | [0661-image-smoother](https://github.com/bjw725/daily-coding-test/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/bjw725/daily-coding-test/tree/master/0682-baseball-game) |
+| [0824-number-of-lines-to-write-string](https://github.com/bjw725/daily-coding-test/tree/master/0824-number-of-lines-to-write-string) |
 | [0941-sort-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/bjw725/daily-coding-test/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/bjw725/daily-coding-test/tree/master/1019-squares-of-a-sorted-array) |
@@ -136,6 +137,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/bjw725/daily-coding-test/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/bjw725/daily-coding-test/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/bjw725/daily-coding-test/tree/master/0742-to-lower-case) |
+| [0824-number-of-lines-to-write-string](https://github.com/bjw725/daily-coding-test/tree/master/0824-number-of-lines-to-write-string) |
 | [1970-sorting-the-sentence](https://github.com/bjw725/daily-coding-test/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/bjw725/daily-coding-test/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
