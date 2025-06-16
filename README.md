@@ -16,6 +16,7 @@
 | [0506-relative-ranks](https://github.com/bjw725/daily-coding-test/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/bjw725/daily-coding-test/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/bjw725/daily-coding-test/tree/master/0575-distribute-candies) |
+| [0661-image-smoother](https://github.com/bjw725/daily-coding-test/tree/master/0661-image-smoother) |
 | [0941-sort-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/bjw725/daily-coding-test/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/bjw725/daily-coding-test/tree/master/1019-squares-of-a-sorted-array) |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/bjw725/daily-coding-test/tree/master/0463-island-perimeter) |
+| [0661-image-smoother](https://github.com/bjw725/daily-coding-test/tree/master/0661-image-smoother) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/bjw725/daily-coding-test/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/bjw725/daily-coding-test/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Tree
