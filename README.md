@@ -91,6 +91,7 @@
 | [0258-add-digits](https://github.com/bjw725/daily-coding-test/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/bjw725/daily-coding-test/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/bjw725/daily-coding-test/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/bjw725/daily-coding-test/tree/master/1013-fibonacci-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bjw725/daily-coding-test/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
