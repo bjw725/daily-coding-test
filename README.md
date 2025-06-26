@@ -127,6 +127,7 @@
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/bjw725/daily-coding-test/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/bjw725/daily-coding-test/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/bjw725/daily-coding-test/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/bjw725/daily-coding-test/tree/master/0575-distribute-candies) |
 | [0965-unique-email-addresses](https://github.com/bjw725/daily-coding-test/tree/master/0965-unique-email-addresses) |
@@ -158,6 +159,7 @@
 | [0257-binary-tree-paths](https://github.com/bjw725/daily-coding-test/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/bjw725/daily-coding-test/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/bjw725/daily-coding-test/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/bjw725/daily-coding-test/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/bjw725/daily-coding-test/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bjw725/daily-coding-test/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/bjw725/daily-coding-test/tree/master/0657-robot-return-to-origin) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/bjw725/daily-coding-test/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/bjw725/daily-coding-test/tree/master/0387-first-unique-character-in-a-string) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bjw725/daily-coding-test/tree/master/2331-intersection-of-multiple-arrays) |
 | [3778-transform-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/3778-transform-array-by-parity) |
@@ -328,6 +331,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bjw725/daily-coding-test/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bjw725/daily-coding-test/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/bjw725/daily-coding-test/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
