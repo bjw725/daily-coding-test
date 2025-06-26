@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/bjw725/daily-coding-test/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/bjw725/daily-coding-test/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/bjw725/daily-coding-test/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/bjw725/daily-coding-test/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bjw725/daily-coding-test/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -228,6 +229,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bjw725/daily-coding-test/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/bjw725/daily-coding-test/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/bjw725/daily-coding-test/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -242,6 +244,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/bjw725/daily-coding-test/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/bjw725/daily-coding-test/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/bjw725/daily-coding-test/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -267,6 +270,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bjw725/daily-coding-test/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/bjw725/daily-coding-test/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/bjw725/daily-coding-test/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bjw725/daily-coding-test/tree/master/0783-search-in-a-binary-search-tree) |
@@ -352,4 +356,8 @@
 |  |
 | ------- |
 | [1094-matrix-cells-in-distance-order](https://github.com/bjw725/daily-coding-test/tree/master/1094-matrix-cells-in-distance-order) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/bjw725/daily-coding-test/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
