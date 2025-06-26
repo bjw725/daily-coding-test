@@ -29,6 +29,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/bjw725/daily-coding-test/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/bjw725/daily-coding-test/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/bjw725/daily-coding-test/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1094-matrix-cells-in-distance-order](https://github.com/bjw725/daily-coding-test/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/bjw725/daily-coding-test/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/bjw725/daily-coding-test/tree/master/1217-relative-sort-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -71,6 +72,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/bjw725/daily-coding-test/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/bjw725/daily-coding-test/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/bjw725/daily-coding-test/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1094-matrix-cells-in-distance-order](https://github.com/bjw725/daily-coding-test/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/bjw725/daily-coding-test/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/bjw725/daily-coding-test/tree/master/1217-relative-sort-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -104,6 +106,7 @@
 | [0944-smallest-range-i](https://github.com/bjw725/daily-coding-test/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/bjw725/daily-coding-test/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/bjw725/daily-coding-test/tree/master/1086-divisor-game) |
+| [1094-matrix-cells-in-distance-order](https://github.com/bjw725/daily-coding-test/tree/master/1094-matrix-cells-in-distance-order) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bjw725/daily-coding-test/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
 |  |
@@ -208,6 +211,7 @@
 | ------- |
 | [0463-island-perimeter](https://github.com/bjw725/daily-coding-test/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/bjw725/daily-coding-test/tree/master/0661-image-smoother) |
+| [1094-matrix-cells-in-distance-order](https://github.com/bjw725/daily-coding-test/tree/master/1094-matrix-cells-in-distance-order) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/bjw725/daily-coding-test/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/bjw725/daily-coding-test/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Tree
@@ -335,4 +339,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/bjw725/daily-coding-test/tree/master/1086-divisor-game) |
+## Geometry
+|  |
+| ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/bjw725/daily-coding-test/tree/master/1094-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
