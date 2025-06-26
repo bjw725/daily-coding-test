@@ -201,6 +201,7 @@
 | [0461-hamming-distance](https://github.com/bjw725/daily-coding-test/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bjw725/daily-coding-test/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/bjw725/daily-coding-test/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0899-binary-gap](https://github.com/bjw725/daily-coding-test/tree/master/0899-binary-gap) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
