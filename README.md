@@ -44,6 +44,7 @@
 | [1127-last-stone-weight](https://github.com/bjw725/daily-coding-test/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/bjw725/daily-coding-test/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/bjw725/daily-coding-test/tree/master/1217-relative-sort-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/bjw725/daily-coding-test/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/bjw725/daily-coding-test/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bjw725/daily-coding-test/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -161,6 +162,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/bjw725/daily-coding-test/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/bjw725/daily-coding-test/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/bjw725/daily-coding-test/tree/master/1217-relative-sort-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/bjw725/daily-coding-test/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bjw725/daily-coding-test/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bjw725/daily-coding-test/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/bjw725/daily-coding-test/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -228,6 +230,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/bjw725/daily-coding-test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bjw725/daily-coding-test/tree/master/0387-first-unique-character-in-a-string) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/bjw725/daily-coding-test/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/bjw725/daily-coding-test/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bjw725/daily-coding-test/tree/master/2331-intersection-of-multiple-arrays) |
