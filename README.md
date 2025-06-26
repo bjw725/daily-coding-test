@@ -39,6 +39,7 @@
 | [1044-find-common-characters](https://github.com/bjw725/daily-coding-test/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/bjw725/daily-coding-test/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1094-matrix-cells-in-distance-order](https://github.com/bjw725/daily-coding-test/tree/master/1094-matrix-cells-in-distance-order) |
+| [1127-last-stone-weight](https://github.com/bjw725/daily-coding-test/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/bjw725/daily-coding-test/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/bjw725/daily-coding-test/tree/master/1217-relative-sort-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/bjw725/daily-coding-test/tree/master/0506-relative-ranks) |
+| [1127-last-stone-weight](https://github.com/bjw725/daily-coding-test/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/bjw725/daily-coding-test/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/bjw725/daily-coding-test/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
