@@ -14,6 +14,7 @@
 | [0303-range-sum-query-immutable](https://github.com/bjw725/daily-coding-test/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/bjw725/daily-coding-test/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/bjw725/daily-coding-test/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bjw725/daily-coding-test/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/bjw725/daily-coding-test/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/bjw725/daily-coding-test/tree/master/0561-array-partition) |
