@@ -160,6 +160,7 @@
 | [0979-di-string-match](https://github.com/bjw725/daily-coding-test/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/bjw725/daily-coding-test/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/bjw725/daily-coding-test/tree/master/1044-find-common-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/bjw725/daily-coding-test/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1970-sorting-the-sentence](https://github.com/bjw725/daily-coding-test/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/bjw725/daily-coding-test/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
@@ -285,6 +286,7 @@
 | [0682-baseball-game](https://github.com/bjw725/daily-coding-test/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/bjw725/daily-coding-test/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
