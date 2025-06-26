@@ -224,6 +224,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bjw725/daily-coding-test/tree/master/0783-search-in-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/bjw725/daily-coding-test/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/bjw725/daily-coding-test/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bjw725/daily-coding-test/tree/master/0783-search-in-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/bjw725/daily-coding-test/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
