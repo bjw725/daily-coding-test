@@ -69,6 +69,7 @@
 | [0242-valid-anagram](https://github.com/bjw725/daily-coding-test/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/bjw725/daily-coding-test/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/bjw725/daily-coding-test/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/bjw725/daily-coding-test/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/0941-sort-array-by-parity) |
@@ -128,6 +129,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/bjw725/daily-coding-test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bjw725/daily-coding-test/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/bjw725/daily-coding-test/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/bjw725/daily-coding-test/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/bjw725/daily-coding-test/tree/master/0575-distribute-candies) |
 | [0965-unique-email-addresses](https://github.com/bjw725/daily-coding-test/tree/master/0965-unique-email-addresses) |
@@ -160,6 +162,7 @@
 | [0344-reverse-string](https://github.com/bjw725/daily-coding-test/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/bjw725/daily-coding-test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bjw725/daily-coding-test/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/bjw725/daily-coding-test/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/bjw725/daily-coding-test/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bjw725/daily-coding-test/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/bjw725/daily-coding-test/tree/master/0657-robot-return-to-origin) |
@@ -180,6 +183,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/bjw725/daily-coding-test/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/bjw725/daily-coding-test/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/bjw725/daily-coding-test/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/bjw725/daily-coding-test/tree/master/0461-hamming-distance) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
