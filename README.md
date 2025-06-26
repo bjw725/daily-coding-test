@@ -107,6 +107,7 @@
 | [0258-add-digits](https://github.com/bjw725/daily-coding-test/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/bjw725/daily-coding-test/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/bjw725/daily-coding-test/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/bjw725/daily-coding-test/tree/master/0728-self-dividing-numbers) |
 | [0944-smallest-range-i](https://github.com/bjw725/daily-coding-test/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/bjw725/daily-coding-test/tree/master/1013-fibonacci-number) |
