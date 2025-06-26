@@ -41,6 +41,7 @@
 | [1044-find-common-characters](https://github.com/bjw725/daily-coding-test/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/bjw725/daily-coding-test/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1094-matrix-cells-in-distance-order](https://github.com/bjw725/daily-coding-test/tree/master/1094-matrix-cells-in-distance-order) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/bjw725/daily-coding-test/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/bjw725/daily-coding-test/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/bjw725/daily-coding-test/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/bjw725/daily-coding-test/tree/master/1217-relative-sort-array) |
@@ -161,6 +162,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/bjw725/daily-coding-test/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/bjw725/daily-coding-test/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/bjw725/daily-coding-test/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/bjw725/daily-coding-test/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/bjw725/daily-coding-test/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/bjw725/daily-coding-test/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bjw725/daily-coding-test/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -207,6 +209,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/bjw725/daily-coding-test/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/bjw725/daily-coding-test/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/bjw725/daily-coding-test/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/bjw725/daily-coding-test/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/bjw725/daily-coding-test/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1970-sorting-the-sentence](https://github.com/bjw725/daily-coding-test/tree/master/1970-sorting-the-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/bjw725/daily-coding-test/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -230,6 +233,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/bjw725/daily-coding-test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bjw725/daily-coding-test/tree/master/0387-first-unique-character-in-a-string) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/bjw725/daily-coding-test/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/bjw725/daily-coding-test/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/bjw725/daily-coding-test/tree/master/2190-count-common-words-with-one-occurrence) |
