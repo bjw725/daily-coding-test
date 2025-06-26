@@ -7,6 +7,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bjw725/daily-coding-test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/bjw725/daily-coding-test/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bjw725/daily-coding-test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/bjw725/daily-coding-test/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/bjw725/daily-coding-test/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
@@ -347,6 +348,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/bjw725/daily-coding-test/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bjw725/daily-coding-test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/bjw725/daily-coding-test/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/bjw725/daily-coding-test/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/bjw725/daily-coding-test/tree/master/1086-divisor-game) |
