@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/bjw725/daily-coding-test/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/bjw725/daily-coding-test/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/bjw725/daily-coding-test/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/bjw725/daily-coding-test/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/bjw725/daily-coding-test/tree/master/0463-island-perimeter) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/bjw725/daily-coding-test/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/bjw725/daily-coding-test/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bjw725/daily-coding-test/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bjw725/daily-coding-test/tree/master/0557-reverse-words-in-a-string-iii) |
