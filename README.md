@@ -22,6 +22,7 @@
 | [0941-sort-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/bjw725/daily-coding-test/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/bjw725/daily-coding-test/tree/master/0958-sort-array-by-parity-ii) |
+| [0965-unique-email-addresses](https://github.com/bjw725/daily-coding-test/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/bjw725/daily-coding-test/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/bjw725/daily-coding-test/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/bjw725/daily-coding-test/tree/master/1217-relative-sort-array) |
@@ -111,6 +112,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/bjw725/daily-coding-test/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/bjw725/daily-coding-test/tree/master/0575-distribute-candies) |
+| [0965-unique-email-addresses](https://github.com/bjw725/daily-coding-test/tree/master/0965-unique-email-addresses) |
 | [1217-relative-sort-array](https://github.com/bjw725/daily-coding-test/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bjw725/daily-coding-test/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bjw725/daily-coding-test/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -140,6 +142,7 @@
 | [0657-robot-return-to-origin](https://github.com/bjw725/daily-coding-test/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/bjw725/daily-coding-test/tree/master/0742-to-lower-case) |
 | [0824-number-of-lines-to-write-string](https://github.com/bjw725/daily-coding-test/tree/master/0824-number-of-lines-to-write-string) |
+| [0965-unique-email-addresses](https://github.com/bjw725/daily-coding-test/tree/master/0965-unique-email-addresses) |
 | [1970-sorting-the-sentence](https://github.com/bjw725/daily-coding-test/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/bjw725/daily-coding-test/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
