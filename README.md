@@ -28,6 +28,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/bjw725/daily-coding-test/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/bjw725/daily-coding-test/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/bjw725/daily-coding-test/tree/master/1044-find-common-characters) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/bjw725/daily-coding-test/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/bjw725/daily-coding-test/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/bjw725/daily-coding-test/tree/master/1217-relative-sort-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -69,6 +70,7 @@
 | [0941-sort-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/bjw725/daily-coding-test/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/bjw725/daily-coding-test/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/bjw725/daily-coding-test/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/bjw725/daily-coding-test/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/bjw725/daily-coding-test/tree/master/1217-relative-sort-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -107,6 +109,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/bjw725/daily-coding-test/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/bjw725/daily-coding-test/tree/master/0979-di-string-match) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/bjw725/daily-coding-test/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bjw725/daily-coding-test/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/bjw725/daily-coding-test/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
