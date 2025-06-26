@@ -168,6 +168,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/bjw725/daily-coding-test/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bjw725/daily-coding-test/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/bjw725/daily-coding-test/tree/master/0412-fizz-buzz) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/bjw725/daily-coding-test/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bjw725/daily-coding-test/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/bjw725/daily-coding-test/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/bjw725/daily-coding-test/tree/master/0742-to-lower-case) |
