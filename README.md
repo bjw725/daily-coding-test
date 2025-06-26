@@ -15,6 +15,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/bjw725/daily-coding-test/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/bjw725/daily-coding-test/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/bjw725/daily-coding-test/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/bjw725/daily-coding-test/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/bjw725/daily-coding-test/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/bjw725/daily-coding-test/tree/master/0561-array-partition) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/bjw725/daily-coding-test/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/bjw725/daily-coding-test/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/bjw725/daily-coding-test/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/bjw725/daily-coding-test/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/bjw725/daily-coding-test/tree/master/0682-baseball-game) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/bjw725/daily-coding-test/tree/master/2274-keep-multiplying-found-values-by-two) |
