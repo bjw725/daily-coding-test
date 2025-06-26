@@ -34,6 +34,7 @@
 | [0965-unique-email-addresses](https://github.com/bjw725/daily-coding-test/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/bjw725/daily-coding-test/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/bjw725/daily-coding-test/tree/master/0981-delete-columns-to-make-sorted) |
+| [0990-verifying-an-alien-dictionary](https://github.com/bjw725/daily-coding-test/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/bjw725/daily-coding-test/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/bjw725/daily-coding-test/tree/master/1019-squares-of-a-sorted-array) |
 | [1041-available-captures-for-rook](https://github.com/bjw725/daily-coding-test/tree/master/1041-available-captures-for-rook) |
@@ -156,6 +157,7 @@
 | [0817-design-hashmap](https://github.com/bjw725/daily-coding-test/tree/master/0817-design-hashmap) |
 | [0924-fair-candy-swap](https://github.com/bjw725/daily-coding-test/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/bjw725/daily-coding-test/tree/master/0965-unique-email-addresses) |
+| [0990-verifying-an-alien-dictionary](https://github.com/bjw725/daily-coding-test/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/bjw725/daily-coding-test/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/bjw725/daily-coding-test/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/bjw725/daily-coding-test/tree/master/1217-relative-sort-array) |
@@ -201,6 +203,7 @@
 | [0965-unique-email-addresses](https://github.com/bjw725/daily-coding-test/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/bjw725/daily-coding-test/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/bjw725/daily-coding-test/tree/master/0981-delete-columns-to-make-sorted) |
+| [0990-verifying-an-alien-dictionary](https://github.com/bjw725/daily-coding-test/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/bjw725/daily-coding-test/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/bjw725/daily-coding-test/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1970-sorting-the-sentence](https://github.com/bjw725/daily-coding-test/tree/master/1970-sorting-the-sentence) |
