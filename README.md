@@ -192,6 +192,7 @@
 | [0338-counting-bits](https://github.com/bjw725/daily-coding-test/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/bjw725/daily-coding-test/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/bjw725/daily-coding-test/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/bjw725/daily-coding-test/tree/master/0693-binary-number-with-alternating-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
