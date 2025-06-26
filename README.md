@@ -171,6 +171,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/bjw725/daily-coding-test/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/bjw725/daily-coding-test/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/bjw725/daily-coding-test/tree/master/1319-unique-number-of-occurrences) |
+| [1472-increasing-decreasing-string](https://github.com/bjw725/daily-coding-test/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bjw725/daily-coding-test/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bjw725/daily-coding-test/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/bjw725/daily-coding-test/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -218,6 +219,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/bjw725/daily-coding-test/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/bjw725/daily-coding-test/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/bjw725/daily-coding-test/tree/master/1297-maximum-number-of-balloons) |
+| [1472-increasing-decreasing-string](https://github.com/bjw725/daily-coding-test/tree/master/1472-increasing-decreasing-string) |
 | [1970-sorting-the-sentence](https://github.com/bjw725/daily-coding-test/tree/master/1970-sorting-the-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/bjw725/daily-coding-test/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2502-sort-the-people](https://github.com/bjw725/daily-coding-test/tree/master/2502-sort-the-people) |
@@ -244,6 +246,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/bjw725/daily-coding-test/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/bjw725/daily-coding-test/tree/master/1297-maximum-number-of-balloons) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/bjw725/daily-coding-test/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1472-increasing-decreasing-string](https://github.com/bjw725/daily-coding-test/tree/master/1472-increasing-decreasing-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/bjw725/daily-coding-test/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/bjw725/daily-coding-test/tree/master/2331-intersection-of-multiple-arrays) |
 | [3778-transform-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/3778-transform-array-by-parity) |
