@@ -25,6 +25,7 @@
 | [0816-design-hashset](https://github.com/bjw725/daily-coding-test/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/bjw725/daily-coding-test/tree/master/0817-design-hashmap) |
 | [0824-number-of-lines-to-write-string](https://github.com/bjw725/daily-coding-test/tree/master/0824-number-of-lines-to-write-string) |
+| [0830-largest-triangle-area](https://github.com/bjw725/daily-coding-test/tree/master/0830-largest-triangle-area) |
 | [0941-sort-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/bjw725/daily-coding-test/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/bjw725/daily-coding-test/tree/master/0958-sort-array-by-parity-ii) |
@@ -113,6 +114,7 @@
 | [0492-construct-the-rectangle](https://github.com/bjw725/daily-coding-test/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/bjw725/daily-coding-test/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/bjw725/daily-coding-test/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0830-largest-triangle-area](https://github.com/bjw725/daily-coding-test/tree/master/0830-largest-triangle-area) |
 | [0944-smallest-range-i](https://github.com/bjw725/daily-coding-test/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/bjw725/daily-coding-test/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/bjw725/daily-coding-test/tree/master/1086-divisor-game) |
@@ -406,6 +408,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/bjw725/daily-coding-test/tree/master/0830-largest-triangle-area) |
 | [1094-matrix-cells-in-distance-order](https://github.com/bjw725/daily-coding-test/tree/master/1094-matrix-cells-in-distance-order) |
 ## Backtracking
 |  |
