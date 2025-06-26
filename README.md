@@ -248,6 +248,7 @@
 | [0226-invert-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/bjw725/daily-coding-test/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/bjw725/daily-coding-test/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bjw725/daily-coding-test/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -265,6 +266,7 @@
 | [0257-binary-tree-paths](https://github.com/bjw725/daily-coding-test/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/bjw725/daily-coding-test/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/bjw725/daily-coding-test/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bjw725/daily-coding-test/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/bjw725/daily-coding-test/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -292,6 +294,7 @@
 | [0226-invert-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/bjw725/daily-coding-test/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/bjw725/daily-coding-test/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bjw725/daily-coding-test/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bjw725/daily-coding-test/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bjw725/daily-coding-test/tree/master/0783-search-in-a-binary-search-tree) |
