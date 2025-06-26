@@ -114,6 +114,7 @@
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/bjw725/daily-coding-test/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/bjw725/daily-coding-test/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/bjw725/daily-coding-test/tree/master/0412-fizz-buzz) |
@@ -178,6 +179,7 @@
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/bjw725/daily-coding-test/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/bjw725/daily-coding-test/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/bjw725/daily-coding-test/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/bjw725/daily-coding-test/tree/master/0344-reverse-string) |
