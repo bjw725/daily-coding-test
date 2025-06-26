@@ -23,6 +23,7 @@
 | [0661-image-smoother](https://github.com/bjw725/daily-coding-test/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/bjw725/daily-coding-test/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/bjw725/daily-coding-test/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/bjw725/daily-coding-test/tree/master/0817-design-hashmap) |
 | [0824-number-of-lines-to-write-string](https://github.com/bjw725/daily-coding-test/tree/master/0824-number-of-lines-to-write-string) |
 | [0941-sort-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/bjw725/daily-coding-test/tree/master/0944-smallest-range-i) |
@@ -138,6 +139,7 @@
 | [0575-distribute-candies](https://github.com/bjw725/daily-coding-test/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bjw725/daily-coding-test/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/bjw725/daily-coding-test/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/bjw725/daily-coding-test/tree/master/0817-design-hashmap) |
 | [0965-unique-email-addresses](https://github.com/bjw725/daily-coding-test/tree/master/0965-unique-email-addresses) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/bjw725/daily-coding-test/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/bjw725/daily-coding-test/tree/master/1044-find-common-characters) |
@@ -348,6 +350,7 @@
 | [0206-reverse-linked-list](https://github.com/bjw725/daily-coding-test/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bjw725/daily-coding-test/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/bjw725/daily-coding-test/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/bjw725/daily-coding-test/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -361,6 +364,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/bjw725/daily-coding-test/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/bjw725/daily-coding-test/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/bjw725/daily-coding-test/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/bjw725/daily-coding-test/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -409,4 +413,5 @@
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/bjw725/daily-coding-test/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/bjw725/daily-coding-test/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
