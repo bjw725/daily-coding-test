@@ -26,6 +26,7 @@
 | [0817-design-hashmap](https://github.com/bjw725/daily-coding-test/tree/master/0817-design-hashmap) |
 | [0824-number-of-lines-to-write-string](https://github.com/bjw725/daily-coding-test/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/bjw725/daily-coding-test/tree/master/0830-largest-triangle-area) |
+| [0924-fair-candy-swap](https://github.com/bjw725/daily-coding-test/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/bjw725/daily-coding-test/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/bjw725/daily-coding-test/tree/master/0958-sort-array-by-parity-ii) |
@@ -64,6 +65,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/bjw725/daily-coding-test/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/bjw725/daily-coding-test/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bjw725/daily-coding-test/tree/master/0349-intersection-of-two-arrays) |
+| [0924-fair-candy-swap](https://github.com/bjw725/daily-coding-test/tree/master/0924-fair-candy-swap) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/bjw725/daily-coding-test/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/bjw725/daily-coding-test/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/bjw725/daily-coding-test/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -77,6 +79,7 @@
 | [0389-find-the-difference](https://github.com/bjw725/daily-coding-test/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/bjw725/daily-coding-test/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/bjw725/daily-coding-test/tree/master/0561-array-partition) |
+| [0924-fair-candy-swap](https://github.com/bjw725/daily-coding-test/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/bjw725/daily-coding-test/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/bjw725/daily-coding-test/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/bjw725/daily-coding-test/tree/master/1019-squares-of-a-sorted-array) |
@@ -143,6 +146,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bjw725/daily-coding-test/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/bjw725/daily-coding-test/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/bjw725/daily-coding-test/tree/master/0817-design-hashmap) |
+| [0924-fair-candy-swap](https://github.com/bjw725/daily-coding-test/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/bjw725/daily-coding-test/tree/master/0965-unique-email-addresses) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/bjw725/daily-coding-test/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/bjw725/daily-coding-test/tree/master/1044-find-common-characters) |
